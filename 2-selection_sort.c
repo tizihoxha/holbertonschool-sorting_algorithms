@@ -1,9 +1,8 @@
 #include "sort.h"
 /**
- *
- *
- *
- *
+ * selection_sort - function that sorts an array of integers
+ * @array: the array of the elements
+ * @size: size of array
  */
 void selection_sort(int *array, size_t size)
 {
